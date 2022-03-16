@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+
+#non-mobile {
+	color: green;
+    display: block;
+}
+
+#mobile {
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+  #non-mobile {
+    display: none;
+  }
+  
+  #mobile {
+    display: block;
+  }
+}
+</style>
+</head>
+<body>
+
+<p id="non-mobile">Device Tablet & Desktop</p>
+<p id="mobile">Device Mobile</p>
+
+</body>
+</html>
