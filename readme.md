@@ -1,5 +1,3 @@
-# Repo Latihan Binar
-
 ### Latihan 1: Media Query
 ```
 Buatlah sebuah halaman HTML yang responsive terhadap 3 jenis device:
