@@ -1,6 +1,6 @@
-#Repo Latihan Binar
+# Repo Latihan Binar
 
-###Latihan 1: Media Query
+### Latihan 1: Media Query
 // Buatlah sebuah halaman HTML yang responsive terhadap 3 jenis device:
 // Mobile, Tablet, dan Desktop
 // Ketika ukuran mobile: background color -> merah + tulisan -> Ini device mobile
